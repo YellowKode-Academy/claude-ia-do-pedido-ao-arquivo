@@ -1,0 +1,152 @@
+protocolo;data_abertura;canal;motivo;status;prioridade
+CH-2026-4810;01/09/2026 12:32;e-mail;cobrança;aberto;baixa
+CH-2026-4811;01/09/2026 18:19;e-mail;cancelamento;fechado;média
+CH-2026-4812;01/09/2026 10:34;telefone;nota fiscal;em andamento;média
+CH-2026-4813;01/09/2026 15:01;telefone;cancelamento;fechado;média
+CH-2026-4814;01/09/2026 11:03;e-mail;troca;em andamento;baixa
+CH-2026-4815;02/09/2026 09:46;portal;cobrança;fechado;média
+CH-2026-4816;02/09/2026 10:42;portal;cancelamento;aberto;média
+CH-2026-4817;02/09/2026 12:33;portal;entrega;fechado;média
+CH-2026-4818;02/09/2026 12:25;WhatsApp;entrega;fechado;alta
+CH-2026-4819;02/09/2026 09:15;e-mail;entrega;fechado;média
+CH-2026-4820;03/09/2026 08:37;e-mail;cobrança;em andamento;média
+CH-2026-4821;03/09/2026 08:04;telefone;troca;fechado;baixa
+CH-2026-4822;03/09/2026 08:55;WhatsApp;atraso;fechado;média
+CH-2026-4823;03/09/2026 12:42;portal;dúvida de preço;fechado;média
+CH-2026-4824;03/09/2026 17:36;portal;produto avariado;fechado;alta
+CH-2026-4825;04/09/2026 14:12;telefone;entrega;fechado;alta
+CH-2026-4826;04/09/2026 13:27;portal;cancelamento;fechado;baixa
+CH-2026-4827;04/09/2026 18:41;telefone;atraso;fechado;alta
+CH-2026-4828;04/09/2026 13:51;telefone;troca;fechado;média
+CH-2026-4829;04/09/2026 11:34;portal;atraso;fechado;alta
+CH-2026-4830;05/09/2026 10:17;portal;cadastro;fechado;baixa
+CH-2026-4831;05/09/2026 15:51;telefone;cancelamento;fechado;baixa
+CH-2026-4832;05/09/2026 09:59;e-mail;troca;fechado;alta
+CH-2026-4833;05/09/2026 15:30;e-mail;cadastro;fechado;baixa
+CH-2026-4834;05/09/2026 10:24;telefone;cadastro;fechado;média
+CH-2026-4835;06/09/2026 15:18;portal;cancelamento;aberto;alta
+CH-2026-4836;06/09/2026 10:12;WhatsApp;atraso;fechado;baixa
+CH-2026-4837;06/09/2026 17:47;telefone;cobrança;fechado;baixa
+CH-2026-4838;06/09/2026 08:37;portal;cadastro;aberto;média
+CH-2026-4839;06/09/2026 08:32;telefone;produto avariado;fechado;baixa
+CH-2026-4840;07/09/2026 17:04;e-mail;cobrança;fechado;baixa
+CH-2026-4841;07/09/2026 17:15;telefone;cobrança;em andamento;baixa
+CH-2026-4842;07/09/2026 14:42;WhatsApp;entrega;fechado;média
+CH-2026-4843;07/09/2026 18:45;WhatsApp;dúvida de preço;fechado;média
+CH-2026-4844;07/09/2026 14:08;WhatsApp;cancelamento;fechado;média
+CH-2026-4845;08/09/2026 09:00;portal;nota fiscal;em andamento;baixa
+CH-2026-4846;08/09/2026 09:34;e-mail;nota fiscal;aberto;média
+CH-2026-4847;08/09/2026 10:59;WhatsApp;troca;fechado;média
+CH-2026-4848;08/09/2026 13:18;e-mail;nota fiscal;fechado;média
+CH-2026-4849;08/09/2026 17:51;telefone;cobrança;aberto;média
+CH-2026-4850;09/09/2026 18:06;e-mail;troca;fechado;baixa
+CH-2026-4851;09/09/2026 09:47;e-mail;produto avariado;fechado;média
+CH-2026-4852;09/09/2026 17:13;WhatsApp;produto avariado;fechado;média
+CH-2026-4853;09/09/2026 16:31;WhatsApp;atraso;fechado;baixa
+CH-2026-4854;09/09/2026 18:27;WhatsApp;produto avariado;fechado;baixa
+CH-2026-4855;10/09/2026 13:49;e-mail;troca;fechado;média
+CH-2026-4856;10/09/2026 15:35;portal;cobrança;aberto;baixa
+CH-2026-4857;10/09/2026 09:04;e-mail;dúvida de preço;aberto;baixa
+CH-2026-4858;10/09/2026 13:37;e-mail;produto avariado;fechado;média
+CH-2026-4859;10/09/2026 08:19;WhatsApp;cobrança;fechado;média
+CH-2026-4860;11/09/2026 11:43;e-mail;cadastro;fechado;média
+CH-2026-4861;11/09/2026 16:56;portal;produto avariado;em andamento;média
+CH-2026-4862;11/09/2026 11:55;e-mail;troca;fechado;alta
+CH-2026-4863;11/09/2026 08:11;WhatsApp;entrega;fechado;média
+CH-2026-4864;11/09/2026 12:10;telefone;nota fiscal;fechado;baixa
+CH-2026-4865;12/09/2026 15:14;e-mail;atraso;fechado;média
+CH-2026-4866;12/09/2026 12:52;e-mail;atraso;fechado;baixa
+CH-2026-4867;12/09/2026 18:12;portal;atraso;fechado;média
+CH-2026-4868;12/09/2026 09:49;WhatsApp;cobrança;fechado;alta
+CH-2026-4869;12/09/2026 18:53;WhatsApp;cobrança;fechado;baixa
+CH-2026-4870;13/09/2026 12:11;WhatsApp;atraso;fechado;baixa
+CH-2026-4871;13/09/2026 17:27;WhatsApp;cobrança;fechado;alta
+CH-2026-4872;13/09/2026 17:32;telefone;atraso;fechado;média
+CH-2026-4873;13/09/2026 12:02;portal;cancelamento;fechado;média
+CH-2026-4874;13/09/2026 13:27;telefone;entrega;fechado;média
+CH-2026-4875;14/09/2026 18:54;telefone;dúvida de preço;fechado;média
+CH-2026-4876;14/09/2026 18:26;WhatsApp;troca;fechado;média
+CH-2026-4877;14/09/2026 16:08;e-mail;troca;fechado;alta
+CH-2026-4878;14/09/2026 18:47;e-mail;cancelamento;em andamento;média
+CH-2026-4879;14/09/2026 14:35;telefone;troca;fechado;média
+CH-2026-4880;15/09/2026 11:27;WhatsApp;entrega;fechado;alta
+CH-2026-4881;15/09/2026 15:43;e-mail;produto avariado;aberto;alta
+CH-2026-4882;15/09/2026 10:42;telefone;atraso;fechado;média
+CH-2026-4883;15/09/2026 09:52;e-mail;atraso;fechado;média
+CH-2026-4884;15/09/2026 11:09;telefone;entrega;fechado;média
+CH-2026-4885;16/09/2026 15:39;telefone;dúvida de preço;fechado;alta
+CH-2026-4886;16/09/2026 18:36;e-mail;nota fiscal;fechado;alta
+CH-2026-4887;16/09/2026 14:15;e-mail;entrega;fechado;baixa
+CH-2026-4888;16/09/2026 14:14;e-mail;cadastro;aberto;alta
+CH-2026-4889;16/09/2026 08:35;e-mail;produto avariado;fechado;alta
+CH-2026-4890;17/09/2026 10:51;portal;nota fiscal;aberto;média
+CH-2026-4891;17/09/2026 15:39;portal;cadastro;aberto;alta
+CH-2026-4892;17/09/2026 10:47;portal;produto avariado;fechado;média
+CH-2026-4893;17/09/2026 11:53;WhatsApp;nota fiscal;aberto;alta
+CH-2026-4894;17/09/2026 18:15;WhatsApp;troca;fechado;baixa
+CH-2026-4895;18/09/2026 12:15;WhatsApp;produto avariado;fechado;média
+CH-2026-4896;18/09/2026 16:05;e-mail;nota fiscal;fechado;média
+CH-2026-4897;18/09/2026 14:44;e-mail;atraso;fechado;baixa
+CH-2026-4898;18/09/2026 14:26;WhatsApp;troca;aberto;alta
+CH-2026-4899;18/09/2026 14:03;e-mail;nota fiscal;fechado;alta
+CH-2026-4900;19/09/2026 17:44;telefone;dúvida de preço;em andamento;alta
+CH-2026-4901;19/09/2026 15:00;WhatsApp;produto avariado;fechado;alta
+CH-2026-4902;19/09/2026 14:34;e-mail;atraso;fechado;média
+CH-2026-4903;19/09/2026 12:27;portal;troca;fechado;alta
+CH-2026-4904;19/09/2026 13:42;portal;entrega;fechado;alta
+CH-2026-4905;20/09/2026 10:39;telefone;troca;fechado;baixa
+CH-2026-4906;20/09/2026 09:41;portal;troca;fechado;alta
+CH-2026-4907;20/09/2026 10:03;WhatsApp;entrega;fechado;média
+CH-2026-4908;20/09/2026 11:29;WhatsApp;dúvida de preço;fechado;alta
+CH-2026-4909;20/09/2026 12:48;portal;atraso;fechado;baixa
+CH-2026-4910;21/09/2026 15:01;telefone;nota fiscal;fechado;média
+CH-2026-4911;21/09/2026 18:04;telefone;atraso;fechado;média
+CH-2026-4912;21/09/2026 11:53;telefone;cobrança;em andamento;média
+CH-2026-4913;21/09/2026 11:08;portal;cobrança;fechado;média
+CH-2026-4914;21/09/2026 15:44;WhatsApp;produto avariado;fechado;média
+CH-2026-4915;22/09/2026 17:38;telefone;atraso;fechado;média
+CH-2026-4916;22/09/2026 09:37;telefone;cadastro;fechado;alta
+CH-2026-4917;22/09/2026 14:45;e-mail;entrega;fechado;média
+CH-2026-4918;22/09/2026 09:44;WhatsApp;troca;em andamento;baixa
+CH-2026-4919;22/09/2026 17:50;telefone;entrega;fechado;alta
+CH-2026-4920;23/09/2026 18:23;telefone;cancelamento;aberto;média
+CH-2026-4921;23/09/2026 08:54;portal;entrega;fechado;baixa
+CH-2026-4922;23/09/2026 14:23;portal;atraso;fechado;alta
+CH-2026-4923;23/09/2026 10:46;WhatsApp;cobrança;em andamento;alta
+CH-2026-4924;23/09/2026 15:27;WhatsApp;atraso;fechado;média
+CH-2026-4925;24/09/2026 09:17;portal;atraso;fechado;alta
+CH-2026-4926;24/09/2026 17:39;portal;cadastro;fechado;baixa
+CH-2026-4832;05/09/2026 09:59;e-mail;troca;fechado;alta
+CH-2026-4927;24/09/2026 15:54;WhatsApp;cadastro;fechado;alta
+CH-2026-4928;24/09/2026 11:22;WhatsApp;atraso;fechado;média
+CH-2026-4929;24/09/2026 17:44;WhatsApp;atraso;aberto;baixa
+CH-2026-4930;25/09/2026 16:12;telefone;dúvida de preço;fechado;alta
+CH-2026-4931;25/09/2026 15:35;e-mail;entrega;fechado;alta
+CH-2026-4932;25/09/2026 15:50;telefone;cobrança;fechado;média
+CH-2026-4933;25/09/2026 11:25;e-mail;produto avariado;fechado;média
+CH-2026-4934;25/09/2026 15:35;WhatsApp;atraso;fechado;média
+CH-2026-4935;26/09/2026 13:44;portal;produto avariado;fechado;média
+CH-2026-4936;26/09/2026 12:14;telefone;produto avariado;fechado;média
+CH-2026-4937;26/09/2026 09:47;e-mail;atraso;fechado;média
+CH-2026-4938;26/09/2026 15:17;WhatsApp;troca;fechado;média
+CH-2026-4939;26/09/2026 12:14;WhatsApp;nota fiscal;fechado;média
+CH-2026-4940;27/09/2026 08:45;e-mail;cobrança;fechado;baixa
+CH-2026-4941;27/09/2026 08:35;WhatsApp;nota fiscal;fechado;alta
+CH-2026-4942;27/09/2026 09:55;telefone;cobrança;em andamento;média
+CH-2026-4943;27/09/2026 15:30;portal;dúvida de preço;fechado;média
+CH-2026-4944;27/09/2026 08:16;portal;cancelamento;fechado;baixa
+CH-2026-4945;28/09/2026 14:31;telefone;cobrança;em andamento;baixa
+CH-2026-4946;28/09/2026 10:09;WhatsApp;cobrança;fechado;média
+CH-2026-4947;28/09/2026 09:35;portal;atraso;em andamento;média
+CH-2026-4948;28/09/2026 16:24;portal;atraso;fechado;média
+CH-2026-4949;28/09/2026 17:27;WhatsApp;atraso;em andamento;baixa
+CH-2026-4950;29/09/2026 17:47;telefone;nota fiscal;fechado;média
+CH-2026-4951;29/09/2026 12:42;telefone;atraso;fechado;média
+CH-2026-4952;29/09/2026 10:35;telefone;cancelamento;fechado;baixa
+CH-2026-4953;29/09/2026 14:28;portal;atraso;fechado;baixa
+CH-2026-4954;29/09/2026 11:18;WhatsApp;entrega;fechado;baixa
+CH-2026-4955;30/09/2026 18:14;WhatsApp;cobrança;em andamento;média
+CH-2026-4956;30/09/2026 14:07;e-mail;cobrança;fechado;média
+CH-2026-4957;30/09/2026 10:04;telefone;troca;fechado;média
+CH-2026-4958;30/09/2026 17:47;WhatsApp;atraso;fechado;baixa
+CH-2026-4959;30/09/2026 15:44;WhatsApp;atraso;fechado;média

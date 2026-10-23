@@ -1,0 +1,32 @@
+Reunião semanal de operações, segunda-feira, 03/11/2025, 9h02 às 9h41
+Participantes (segundo o convite): Carla (coordenadora), Bruno (compras), Denise (financeiro), Rafael (logística), Tiago (atendimento)
+
+[00:00] Carla: bom dia gente, vamos lá que hoje tem bastante coisa. Primeiro ponto é o atraso do quarenta e oito dois treze que deu aquela confusão com o buffet, depois o fechamento do mês e por último a troca da transportadora. Rafael você começa?
+[00:41] Rafael: então, o quarenta e oito duzentos e treze ficou preso no CD por erro de etiqueta, a etiqueta saiu com o CEP errado, a gente reetiquetou e entregou quinta. Chegou quinta às cinco e pouco.
+[01:10] Tiago: a cliente ficou bem brava, ela pediu compensação, eu dei frete grátis no próximo que é o que eu posso dar.
+[01:22] Carla: tá, isso foi certo. Mas o problema é que é a terceira vez esse ano com o mesmo cliente né.
+[01:30] Rafael: é, das três duas foi etiqueta.
+[01:35] Carla: então eu quero que alguém olhe esse processo de etiqueta. Rafael você consegue me trazer até sexta o que tá acontecendo?
+[01:44] Rafael: até sexta eu trago, sim.
+[01:50] Bruno: só um parênteses, a etiqueta é impressa por aquele sistema novo do WMS, eu acho que o problema é o cadastro de CEP que veio do sistema antigo.
+[02:05] Carla: pode ser, então Bruno ajuda o Rafael nisso.
+[02:09] Bruno: beleza.
+[02:12] Carla: segundo ponto, fechamento. Denise.
+[02:15] Denise: então, outubro tá fechando com faturamento de um ponto dois milhões, mais ou menos, um milhão e duzentos e dez mil, isso é três por cento abaixo da meta. O que puxou pra baixo foi a linha de descartáveis, o resto tá na meta.
+[02:40] Carla: três por cento abaixo, tá. E a inadimplência?
+[02:44] Denise: inadimplência subiu, tá em quatro vírgula oito, mês passado era três vírgula nove. Tem dois clientes grandes que juntos dão quase metade disso.
+[03:01] Carla: eu quero a lista desses clientes com o valor e há quanto tempo tá em aberto, pra gente decidir se corta crédito.
+[03:08] Denise: eu te mando hoje à tarde.
+[03:11] Tiago: um desses é o mercado do seu Valdir né, ele me ligou semana passada pedindo pra parcelar.
+[03:18] Carla: não decide nada com ele antes da gente olhar a lista. Ninguém negocia parcelamento até quarta.
+[03:25] Tiago: tá bom.
+[03:30] Carla: terceiro ponto, transportadora. A gente tem duas propostas, a Rota Sul e a Expresso Norte. Bruno?
+[03:38] Bruno: a Rota Sul tá dezoito por cento mais barata mas o prazo pro interior é um dia a mais. A Expresso Norte mantém o prazo, preço igual ao de hoje praticamente.
+[03:55] Rafael: eu não gosto da ideia de aumentar prazo agora com essa reclamação de atraso.
+[04:02] Denise: dezoito por cento é bastante dinheiro, dá uns quarenta mil por mês.
+[04:10] Carla: tá, eu não vou decidir isso hoje. Bruno, eu quero uma comparação das duas com o custo por mês e o prazo por região, pra reunião de segunda que vem. E pede pra Rota Sul se ela consegue igualar o prazo.
+[04:25] Bruno: fechado. Comparação pra segunda dia dez e eu pergunto do prazo.
+[04:31] Carla: mais alguma coisa?
+[04:33] Tiago: só avisar que o sistema de chamados vai ficar fora do ar sábado de manhã pra atualização.
+[04:40] Carla: beleza, manda isso no grupo. Então tá, obrigada gente.
+[04:44] [fim da gravação útil. O restante, até 9h41, é conversa paralela e foi omitido pela ferramenta de transcrição]

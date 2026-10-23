@@ -1,0 +1,11 @@
+Contas a receber, posição em 23/10/2026
+cliente;documento;emissao;vencimento;valor;moeda;valor_recebido;data_recebimento;status
+Supermercado Vila Nova;NF 10155;18/08/2026;17/09/2026;8.940,00;BRL;3.000,00;25/09/2026;parcial
+Padaria Trigo Bom;NF 10198;01/09/2026;01/10/2026;1.212,30;BRL;;;em aberto
+Andes Trading S.R.L.;INV 0087;10/09/2026;10/10/2026;2.350,00;USD;;;em aberto
+Mercado Ipê;NF 10231;15/09/2026;15/10/2026;3.480,50;BRL;;;em aberto
+Restaurante Sabor da Serra;NF 10240;20/09/2026;20/10/2026;2.105,75;BRL;2.105,75;20/10/2026;pago
+Hotel Mirante;NF 10247;25/09/2026;25/10/2026;4.630,00;BRL;;;a vencer
+Lanchonete Ponto Certo;NF 10252;30/09/2026;30/10/2026;;BRL;;;a vencer
+Empório Central;NF 10260;05/10/2026;04/11/2026;1.890,40;BRL;;;a vencer
+Mercado Ipê;NF 10262;06/10/2026;05/11/2026;2.240,00;BRL;;;a vencer

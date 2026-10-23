@@ -1,0 +1,18 @@
+data;descricao;forma_pagamento;valor
+01/09/2026;Aluguel sala comercial (ref. 09/2026);boleto;2.800,00
+04/09/2026;Energia elétrica (conta 09/2026);débito automático;412,37
+06/09/2026;Internet fibra 500 Mb (fatura 09/2026);débito automático;129,90
+06/09/2026;Internet fibra 500 Mb (fatura 09/2026);cartão final 4417;129,90
+08/09/2026;Produtos capilares, NF 3381;boleto;1.846,50
+10/09/2026;DAS Simples Nacional (comp. 08/2026);débito em conta;688,20
+12/09/2026;Material de limpeza, atacado;cartão final 4417;214,60
+15/09/2026;Salário assistente;pix;2.100,00
+15/09/2026;Comissões cabeleireiras (quinzena 2 de agosto e quinzena 1 de setembro);pix;3.240,00
+18/09/2026;PAG*JMVDIGITAL;cartão final 4417;349,00
+20/09/2026;Manutenção ar-condicionado;pix;380,00
+22/09/2026;Água e esgoto;boleto;96,45
+25/09/2026;Honorários contador;boleto;450,00
+27/09/2026;PIX ENVIADO R S LIMA;pix;600,00
+28/09/2026;Toalhas descartáveis;cartão final 8802;158,40
+30/09/2026;Taxas maquininha de cartão;débito em conta;512,84
+30/09/2026;Estorno produtos capilares, devolução parcial NF 3381;crédito em conta;-230,00
